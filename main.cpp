@@ -32,7 +32,7 @@ int main(){
       cout << "Enter temperature in Fahrenheit: ";
       cin>> fahrenheit;
       celsius = (fahrenheit - 32) *5 /9;
-      cout<< fahrenheit <<" F = "<< celsius << "\n";
+      cout<< fahrenheit <<" F = "<< celsius << "C\n";
     }
     else{
       cout<< "Invalid choice. Please try again. \n";
